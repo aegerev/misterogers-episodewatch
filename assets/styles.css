@@ -15,13 +15,12 @@
     padding: 40px;
     text-align: center;
     background: #007FFF;
-    color: #00009C;
+    color: #D9D919;
   }
   
   nav {
     display: flex;
     background-color: #C0D9D9;
-    text-align: right;
   }
   
   nav a {
@@ -29,14 +28,13 @@
     padding: 14px 20px;
     text-decoration: none;
     text-align: center;
-    margin-left: 10px;
   }
   
   footer {
     padding: 20px;
     text-align: center;
     background: #70DBDB;
-    color: #5C3317;
+    color: #FFFF00;
     margin-top: auto;
   }
   
@@ -47,7 +45,7 @@
   }
   
   .product button {
-    font-size: 100%;
+    font-size: 150%;
   }
   
   .product-slideshow {
